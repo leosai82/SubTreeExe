@@ -6,6 +6,8 @@ namespace SubTreeExe
     {
         static void Main(string[] args)
         {
+            new SubTreeLib.Class1();
+
             Console.WriteLine("Hello World!");
         }
     }
