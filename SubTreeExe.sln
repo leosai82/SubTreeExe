@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubTreeExe", "SubTreeExe\SubTreeExe.csproj", "{7E4BE3A4-680A-42FC-9A3E-496EC885910A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubTreeExe", "SubTreeExe\SubTreeExe.csproj", "{7E4BE3A4-680A-42FC-9A3E-496EC885910A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubTreeLib", "..\SubTreeLib\SubTreeLib\SubTreeLib.csproj", "{3FB592A6-A955-4D6D-803A-D2628A4B837A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubTreeLib", "SubTreeLib\SubTreeLib\SubTreeLib.csproj", "{8A7544EC-CFAC-4412-BD32-B05983A95CDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{7E4BE3A4-680A-42FC-9A3E-496EC885910A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E4BE3A4-680A-42FC-9A3E-496EC885910A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E4BE3A4-680A-42FC-9A3E-496EC885910A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3FB592A6-A955-4D6D-803A-D2628A4B837A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3FB592A6-A955-4D6D-803A-D2628A4B837A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3FB592A6-A955-4D6D-803A-D2628A4B837A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3FB592A6-A955-4D6D-803A-D2628A4B837A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A7544EC-CFAC-4412-BD32-B05983A95CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7544EC-CFAC-4412-BD32-B05983A95CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7544EC-CFAC-4412-BD32-B05983A95CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7544EC-CFAC-4412-BD32-B05983A95CDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
