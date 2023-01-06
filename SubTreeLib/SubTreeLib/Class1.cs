@@ -7,5 +7,6 @@ namespace SubTreeLib
     /// </summary>
     public class Class1
     {
+        //
     }
 }
